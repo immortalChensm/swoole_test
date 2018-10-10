@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>文章发布页</title>
+    <link rel="stylesheet" type="text/css" href="../style/article.css"/>
+</head>
+<body>
+<div class="form">
+
+    <form method="post" action="/Article/add">
+        <p>文章标题：<input type="text" name="title"></p>
+        <p>文章作者：<input type="text" name="author"></p>
+        <p>文章内容：<textarea name="context" style="width:800px;height:100px;"></textarea></p>
+
+        <button type="submit">保存</button>
+    </form>
+</div>
+
+<div class="footer">
+    @copyright 2018 jackcsm@1655664358@qq.com swoole
+</div>
+</body>
+</html>

@@ -1,0 +1,48 @@
+div.form{
+    width:60%;
+    margin:100px auto;
+}
+
+div.footer{
+    text-align:center;
+}
+
+div#article
+{
+
+}
+
+div#article ul{
+    list-style: none;
+}
+div#article ul li{
+    display: inline-block;
+}
+li{
+    background:beige;
+    color:#1a1a1a;
+    padding:10px;
+    margin:5px 2px;
+
+}
+li.title{
+    width:350px;
+}
+li.author{
+    width:100px;
+}
+
+
+div#page ul{
+    margin:20px auto;
+}
+div#page ul li{
+    display: inline-block;
+    margin:2px;
+    padding:1px;
+    width:30px;
+    height:30px;
+    line-height: 20px;
+    text-align: center;
+    cursor:pointer;
+}

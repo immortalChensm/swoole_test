@@ -1,0 +1,1181 @@
+Client:Connect.
+自动加载的类名是:App\app
+Client:Connect.
+Client:Connect.
+自动加载的类名是:App\app
+Client:Connect.
+自动加载的类名是:HttpController\
+类文件引入失败/home/itkucode/sw/tcp/HttpController/.php
+自动加载的类名是:HttpController\
+类文件引入失败/home/itkucode/sw/tcp/HttpController/.php
+-1
+Class HttpController\ does not exist
+64
+Client:Connect.
+Client:Connect.
+自动加载的类名是:App\app
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+自动加载的类名是:App\app
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+[2018-07-23 18:20:20 #1352.1]	NOTICE	Server is shutdown now.
+Client:Connect.
+自动加载的类名是:App\app
+Client:Connect.
+自动加载的类名是:App\app
+自动加载的类名是:HttpController\Article
+自动加载的类名是:HttpController\Controller
+自动加载的类名是:Model\Article
+PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/itkucode/sw/tcp/Model/Article.php on line 203
+
+Parse error: syntax error, unexpected 'public' (T_PUBLIC) in /home/itkucode/sw/tcp/Model/Article.php on line 203
+[2018-07-23 18:22:12 #15146.1]	NOTICE	Server is shutdown now.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+自动加载的类名是:App\app
+自动加载的类名是:HttpController\Article
+自动加载的类名是:HttpController\Controller
+自动加载的类名是:Model\Article
+自动加载的类名是:Model\Model
+Client:Connect.
+自动加载的类名是:App\app
+自动加载的类名是:App\app
+自动加载的类名是:HttpController\Article
+自动加载的类名是:HttpController\Controller
+自动加载的类名是:Model\Article
+自动加载的类名是:Model\Model
+php: async.c:477: redisProcessCallbacks: Assertion `(c->flags & 0x20 || c->flags & 0x40)' failed.
+[2018-07-23 18:22:29 $15557.0]	WARNING	swManager_check_exit_status: worker#0 abnormal exit, status=0, signal=6
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+自动加载的类名是:App\app
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+自动加载的类名是:HttpController\
+类文件引入失败/home/itkucode/sw/tcp/HttpController/.php
+自动加载的类名是:HttpController\
+类文件引入失败/home/itkucode/sw/tcp/HttpController/.php
+自动加载的类名是:HttpController\
+类文件引入失败/home/itkucode/sw/tcp/HttpController/.php
+自动加载的类名是:HttpController\
+类文件引入失败/home/itkucode/sw/tcp/HttpController/.php
+自动加载的类名是:HttpController\
+类文件引入失败/home/itkucode/sw/tcp/HttpController/.php
+自动加载的类名是:HttpController\
+类文件引入失败/home/itkucode/sw/tcp/HttpController/.php
+自动加载的类名是:HttpController\
+类文件引入失败/home/itkucode/sw/tcp/HttpController/.php
+自动加载的类名是:HttpController\
+类文件引入失败/home/itkucode/sw/tcp/HttpController/.php
+自动加载的类名是:HttpController\
+类文件引入失败/home/itkucode/sw/tcp/HttpController/.php
+自动加载的类名是:HttpController\
+类文件引入失败/home/itkucode/sw/tcp/HttpController/.php
+自动加载的类名是:HttpController\
+类文件引入失败/home/itkucode/sw/tcp/HttpController/.php
+自动加载的类名是:HttpController\
+类文件引入失败/home/itkucode/sw/tcp/HttpController/.php
+-1
+Class HttpController\ does not exist
+64
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+自动加载的类名是:HttpController\Article
+自动加载的类名是:HttpController\Controller
+自动加载的类名是:Model\Article
+自动加载的类名是:Model\Model
+Client:Connect.
+Client:Connect.
+自动加载的类名是:HttpController\
+类文件引入失败/home/itkucode/sw/tcp/HttpController/.php
+自动加载的类名是:HttpController\
+类文件引入失败/home/itkucode/sw/tcp/HttpController/.php
+自动加载的类名是:HttpController\
+类文件引入失败/home/itkucode/sw/tcp/HttpController/.php
+自动加载的类名是:HttpController\
+类文件引入失败/home/itkucode/sw/tcp/HttpController/.php
+自动加载的类名是:HttpController\
+类文件引入失败/home/itkucode/sw/tcp/HttpController/.php
+自动加载的类名是:HttpController\
+类文件引入失败/home/itkucode/sw/tcp/HttpController/.php
+-1
+Class HttpController\ does not exist
+64
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+自动加载的类名是:HttpController\Article
+自动加载的类名是:HttpController\Controller
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+自动加载的类名是:HttpController\Wechat
+Client:Connect.
+自动加载的类名是:HttpController\Wechat
+Client:Connect.
+自动加载的类名是:App\app
+自动加载的类名是:HttpController\Wechat
+自动加载的类名是:HttpController\Controller
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Swoole\Http\Request Object
+(
+    [fd] => 52
+    [header] => Array
+        (
+            [host] => 127.0.0.1:2348
+            [connection] => close
+            [pragma] => no-cache
+            [cache-control] => no-cache
+            [user-agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1807200 MicroMessenger/6.5.7 Language/zh_CN webview/
+            [content-type] => application/json
+            [accept] => */*
+            [referer] => https://servicewechat.com/wxe6be416bcf9f51f1/devtools/page-frame.html
+            [accept-encoding] => gzip, deflate, br
+        )
+
+    [server] => Array
+        (
+            [request_method] => GET
+            [request_uri] => /wechat/getTop250No
+            [path_info] => /wechat/getTop250No
+            [request_time] => 1532438695
+            [request_time_float] => 1532438696.102
+            [server_port] => 2348
+            [remote_port] => 55872
+            [remote_addr] => 127.0.0.1
+            [master_time] => 1532438695
+            [server_protocol] => HTTP/1.0
+            [server_software] => swoole-http-server
+        )
+
+    [request] => 
+    [cookie] => 
+    [get] => 
+    [files] => 
+    [post] => 
+    [tmpfiles] => 
+)
+http://api.douban.com/v2/movie/top250?start=&count=Client:Connect.
+Client:Connect.
+Swoole\Http\Request Object
+(
+    [fd] => 53
+    [header] => Array
+        (
+            [host] => 127.0.0.1:2348
+            [connection] => close
+            [pragma] => no-cache
+            [cache-control] => no-cache
+            [user-agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1807200 MicroMessenger/6.5.7 Language/zh_CN webview/
+            [content-type] => application/json
+            [accept] => */*
+            [referer] => https://servicewechat.com/wxe6be416bcf9f51f1/devtools/page-frame.html
+            [accept-encoding] => gzip, deflate, br
+        )
+
+    [server] => Array
+        (
+            [request_method] => GET
+            [request_uri] => /wechat/getTop250No
+            [path_info] => /wechat/getTop250No
+            [request_time] => 1532438701
+            [request_time_float] => 1532438702.4033
+            [server_port] => 2348
+            [remote_port] => 55876
+            [remote_addr] => 127.0.0.1
+            [master_time] => 1532438701
+            [server_protocol] => HTTP/1.0
+            [server_software] => swoole-http-server
+        )
+
+    [request] => 
+    [cookie] => 
+    [get] => 
+    [files] => 
+    [post] => 
+    [tmpfiles] => 
+)
+http://api.douban.com/v2/movie/top250?start=&count=Client:Connect.
+Swoole\Http\Request Object
+(
+    [fd] => 54
+    [header] => Array
+        (
+            [host] => 127.0.0.1:2348
+            [connection] => close
+            [pragma] => no-cache
+            [cache-control] => no-cache
+            [user-agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1807200 MicroMessenger/6.5.7 Language/zh_CN webview/
+            [content-type] => application/json
+            [accept] => */*
+            [referer] => https://servicewechat.com/wxe6be416bcf9f51f1/devtools/page-frame.html
+            [accept-encoding] => gzip, deflate, br
+        )
+
+    [server] => Array
+        (
+            [request_method] => GET
+            [request_uri] => /wechat/getTop250No
+            [path_info] => /wechat/getTop250No
+            [request_time] => 1532438701
+            [request_time_float] => 1532438702.789
+            [server_port] => 2348
+            [remote_port] => 55880
+            [remote_addr] => 127.0.0.1
+            [master_time] => 1532438701
+            [server_protocol] => HTTP/1.0
+            [server_software] => swoole-http-server
+        )
+
+    [request] => 
+    [cookie] => 
+    [get] => 
+    [files] => 
+    [post] => 
+    [tmpfiles] => 
+)
+http://api.douban.com/v2/movie/top250?start=&count=Client:Connect.
+Client:Connect.
+Client:Connect.
+Swoole\Http\Request Object
+(
+    [fd] => 55
+    [header] => Array
+        (
+            [host] => 127.0.0.1:2348
+            [connection] => close
+            [upgrade-insecure-requests] => 1
+            [user-agent] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.146 Safari/537.36
+            [accept] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+            [accept-encoding] => gzip, deflate, br
+            [accept-language] => zh-CN,zh;q=0.9
+        )
+
+    [server] => Array
+        (
+            [request_method] => GET
+            [request_uri] => /wechat/getTop250No
+            [path_info] => /wechat/getTop250No
+            [request_time] => 1532440638
+            [request_time_float] => 1532440639.9812
+            [server_port] => 2348
+            [remote_port] => 55888
+            [remote_addr] => 127.0.0.1
+            [master_time] => 1532440638
+            [server_protocol] => HTTP/1.0
+            [server_software] => swoole-http-server
+        )
+
+    [request] => 
+    [cookie] => Array
+        (
+            [serverType] => apache
+            [order] => id desc
+            [memSize] => 992
+            [uploadSize] => 1073741824
+            [rank] => a
+            [Path] => /www/wwwroot/www.itkucode.com/.well-known/pki-validation
+            [backup_path] => /www/backup
+            [memRealUsed] => 260
+            [mem-before] => 260/992 (MB)
+            [upNet] => 45.8
+            [downNet] => 4.31
+            [apacheVersion] => 
+            [phpVersion] => 0
+            [vcodesum] => 14
+            [pnull] => 2
+        )
+
+    [get] => 
+    [files] => 
+    [post] => 
+    [tmpfiles] => 
+)
+http://api.douban.com/v2/movie/top250?start=&count=Client:Connect.
+[2018-07-24 21:58:55 #15556.1]	NOTICE	Server is shutdown now.
+Client:Connect.
+自动加载的类名是:App\app
+自动加载的类名是:HttpController\Wechat
+自动加载的类名是:HttpController\Controller
+Swoole\Http\Request Object
+(
+    [fd] => 1
+    [header] => Array
+        (
+            [host] => 127.0.0.1:2348
+            [connection] => close
+            [cache-control] => max-age=0
+            [upgrade-insecure-requests] => 1
+            [user-agent] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.146 Safari/537.36
+            [accept] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+            [accept-encoding] => gzip, deflate, br
+            [accept-language] => zh-CN,zh;q=0.9
+        )
+
+    [server] => Array
+        (
+            [request_method] => GET
+            [request_uri] => /wechat/getTop250No
+            [path_info] => /wechat/getTop250No
+            [request_time] => 1532440762
+            [request_time_float] => 1532440762.9215
+            [server_port] => 2348
+            [remote_port] => 55892
+            [remote_addr] => 127.0.0.1
+            [master_time] => 1532440762
+            [server_protocol] => HTTP/1.0
+            [server_software] => swoole-http-server
+        )
+
+    [request] => 
+    [cookie] => Array
+        (
+            [serverType] => apache
+            [order] => id desc
+            [memSize] => 992
+            [uploadSize] => 1073741824
+            [rank] => a
+            [Path] => /www/wwwroot/www.itkucode.com/.well-known/pki-validation
+            [backup_path] => /www/backup
+            [memRealUsed] => 260
+            [mem-before] => 260/992 (MB)
+            [upNet] => 45.8
+            [downNet] => 4.31
+            [apacheVersion] => 
+            [phpVersion] => 0
+            [vcodesum] => 14
+            [pnull] => 2
+        )
+
+    [get] => 
+    [files] => 
+    [post] => 
+    [tmpfiles] => 
+)
+http://api.douban.com/v2/movie/top250?start=&count=Client:Connect.
+Client:Connect.
+Array
+(
+    [a] => b
+)
+Client:Connect.
+[2018-07-24 22:02:06 #10837.1]	NOTICE	Server is shutdown now.
+Client:Connect.
+自动加载的类名是:App\app
+自动加载的类名是:HttpController\Wechat
+自动加载的类名是:HttpController\Controller
+Array
+(
+    [a] => b
+    [c] => d
+)
+Client:Connect.
+Client:Connect.
+Client:Connect.
+自动加载的类名是:App\app
+自动加载的类名是:HttpController\Wechat
+自动加载的类名是:HttpController\Controller
+Client:Connect.
+自动加载的类名是:App\app
+自动加载的类名是:HttpController\Wechat
+自动加载的类名是:HttpController\Controller
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+[2018-07-24 22:17:28 #11668.1]	NOTICE	Server is shutdown now.
+Client:Connect.
+自动加载的类名是:App\app
+自动加载的类名是:HttpController\Wechat
+自动加载的类名是:HttpController\Controller
+Client:Connect.
+[2018-07-24 22:21:07 #15560.1]	NOTICE	Server is shutdown now.
+Client:Connect.
+自动加载的类名是:App\app
+自动加载的类名是:HttpController\Wechat
+自动加载的类名是:HttpController\Controller
+Client:Connect.
+Client:Connect.
+Client:Connect.
+[2018-07-24 22:25:12 #16562.1]	NOTICE	Server is shutdown now.
+Client:Connect.
+自动加载的类名是:App\app
+自动加载的类名是:HttpController\Wechat
+自动加载的类名是:HttpController\Controller
+Client:Connect.
+Client:Connect.
+Client:Connect.
+[2018-07-24 22:26:57 #17588.1]	NOTICE	Server is shutdown now.
+Client:Connect.
+自动加载的类名是:App\app
+自动加载的类名是:HttpController\Wechat
+自动加载的类名是:HttpController\Controller
+Array
+(
+    [host] => 127.0.0.1:2348
+    [connection] => close
+    [accept] => */*
+    [user-agent] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.146 Safari/537.36
+    [accept-encoding] => gzip, deflate, br
+    [accept-language] => zh-CN,zh;q=0.9
+)
+Array
+(
+    [request_method] => GET
+    [request_uri] => /wechat/details
+    [path_info] => /wechat/details
+    [request_time] => 1532442425
+    [request_time_float] => 1532442425.4254
+    [server_port] => 2348
+    [remote_port] => 55958
+    [remote_addr] => 127.0.0.1
+    [master_time] => 1532442425
+    [server_protocol] => HTTP/1.0
+    [server_software] => swoole-http-server
+)
+Client:Connect.
+Client:Connect.
+Array
+(
+    [host] => 127.0.0.1:2348
+    [connection] => close
+    [accept] => */*
+    [user-agent] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.146 Safari/537.36
+    [accept-encoding] => gzip, deflate, br
+    [accept-language] => zh-CN,zh;q=0.9
+)
+Array
+(
+    [request_method] => GET
+    [request_uri] => /wechat/details
+    [path_info] => /wechat/details
+    [request_time] => 1532442489
+    [request_time_float] => 1532442489.5468
+    [server_port] => 2348
+    [remote_port] => 55960
+    [remote_addr] => 127.0.0.1
+    [master_time] => 1532442489
+    [server_protocol] => HTTP/1.0
+    [server_software] => swoole-http-server
+)
+Client:Connect.
+Client:Connect.
+Array
+(
+    [host] => 127.0.0.1:2348
+    [connection] => close
+    [accept] => */*
+    [user-agent] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.146 Safari/537.36
+    [accept-encoding] => gzip, deflate, br
+    [accept-language] => zh-CN,zh;q=0.9
+)
+Array
+(
+    [request_method] => GET
+    [request_uri] => /wechat/details
+    [path_info] => /wechat/details
+    [request_time] => 1532442509
+    [request_time_float] => 1532442509.7858
+    [server_port] => 2348
+    [remote_port] => 55962
+    [remote_addr] => 127.0.0.1
+    [master_time] => 1532442509
+    [server_protocol] => HTTP/1.0
+    [server_software] => swoole-http-server
+)
+Client:Connect.
+[2018-07-24 22:41:00 #18006.1]	NOTICE	Server is shutdown now.
+Client:Connect.
+自动加载的类名是:App\app
+自动加载的类名是:HttpController\Wechat
+自动加载的类名是:HttpController\Controller
+Client:Connect.
+自动加载的类名是:App\app
+自动加载的类名是:HttpController\Wechat
+自动加载的类名是:HttpController\Controller
+Client:Connect.
+自动加载的类名是:App\app
+自动加载的类名是:HttpController\Wechat
+自动加载的类名是:HttpController\Controller
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+PHP Warning:  file_get_contents(http://api.douban.com/v2/movie/subject/): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/itkucode/sw/tcp/HttpController/Wechat.php on line 67
+
+Warning: file_get_contents(http://api.douban.com/v2/movie/subject/): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/itkucode/sw/tcp/HttpController/Wechat.php on line 67
+Client:Connect.
+[2018-07-24 22:45:48 #21542.1]	NOTICE	Server is shutdown now.
+Client:Connect.
+自动加载的类名是:App\app
+自动加载的类名是:HttpController\Wechat
+自动加载的类名是:HttpController\Controller
+PHP Warning:  file_get_contents(http://api.douban.com/v2/movie/subject/): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/itkucode/sw/tcp/HttpController/Wechat.php on line 67
+
+Warning: file_get_contents(http://api.douban.com/v2/movie/subject/): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/itkucode/sw/tcp/HttpController/Wechat.php on line 67
+Client:Connect.
+[2018-07-24 22:46:54 #22763.1]	NOTICE	Server is shutdown now.
+Client:Connect.
+自动加载的类名是:App\app
+自动加载的类名是:HttpController\Wechat
+自动加载的类名是:HttpController\Controller
+Client:Connect.
+Client:Connect.
+PHP Notice:  Undefined index: id in /home/itkucode/sw/tcp/HttpController/Wechat.php on line 63
+
+Notice: Undefined index: id in /home/itkucode/sw/tcp/HttpController/Wechat.php on line 63
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+自动加载的类名是:App\app
+自动加载的类名是:HttpController\Wechat
+自动加载的类名是:HttpController\Controller
+Client:Connect.
+自动加载的类名是:App\app
+自动加载的类名是:HttpController\Wechat
+自动加载的类名是:HttpController\Controller
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+[2018-07-24 22:54:44 #23049.1]	NOTICE	Server is shutdown now.
+Client:Connect.
+自动加载的类名是:App\app
+自动加载的类名是:HttpController\Wechat
+自动加载的类名是:HttpController\Controller
+Client:Connect.
+Client:Connect.
+Client:Connect.
+自动加载的类名是:App\app
+自动加载的类名是:HttpController\Wechat
+自动加载的类名是:HttpController\Controller
+Client:Connect.
+自动加载的类名是:App\app
+自动加载的类名是:HttpController\Wechat
+自动加载的类名是:HttpController\Controller
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Array
+(
+    [id] => 26752088
+)
+Client:Connect.
+[2018-07-24 22:57:50 #25030.1]	NOTICE	Server is shutdown now.
+Client:Connect.
+自动加载的类名是:App\app
+自动加载的类名是:HttpController\Wechat
+自动加载的类名是:HttpController\Controller
+Client:Connect.
+[2018-07-24 23:04:06 #25832.1]	NOTICE	Server is shutdown now.
+Client:Connect.
+自动加载的类名是:App\app
+自动加载的类名是:HttpController\Wechat
+自动加载的类名是:HttpController\Controller
+Array
+(
+    [file] => Array
+        (
+            [name] => wxe6be416bcf9f51f1.o6zAJs2epPRs-spEcKV2yfAulN2s.WbYTFkNEkWUJ55ff27e8908ef2fd76a02a8825d62ede.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/swoole.upfile.huxUPx
+            [error] => 0
+            [size] => 20867
+        )
+
+)
+Client:Connect.
+Client:Connect.
+Array
+(
+    [file] => Array
+        (
+            [name] => wxe6be416bcf9f51f1.o6zAJs2epPRs-spEcKV2yfAulN2s.DKTqLmb9AD1D0650878b1c5ee3b195ddb3eda20484a4.durationTime=10011.aac
+            [type] => audio/x-aac
+            [tmp_name] => /tmp/swoole.upfile.zCKLwj
+            [error] => 0
+            [size] => 64267
+        )
+
+)
+Client:Connect.
+[2018-07-24 23:24:17 #27414.1]	NOTICE	Server is shutdown now.
+Client:Connect.
+自动加载的类名是:App\app
+自动加载的类名是:HttpController\Wechat
+自动加载的类名是:HttpController\Controller
+Array
+(
+    [file] => Array
+        (
+            [name] => tmp_8f05c1b870eb5f505f879938e6310f29d5a614ee7c417fb3.m4a
+            [type] => audio/mpeg
+            [tmp_name] => /tmp/swoole.upfile.pLBwNu
+            [error] => 0
+            [size] => 234149
+        )
+
+)
+PHP Notice:  Undefined index: tmp_name in /home/itkucode/sw/tcp/HttpController/Wechat.php on line 74
+
+Notice: Undefined index: tmp_name in /home/itkucode/sw/tcp/HttpController/Wechat.php on line 74
+Client:Connect.
+[2018-07-24 23:26:25 #32523.1]	NOTICE	Server is shutdown now.
+Client:Connect.
+自动加载的类名是:App\app
+自动加载的类名是:HttpController\Wechat
+自动加载的类名是:HttpController\Controller
+Array
+(
+    [file] => Array
+        (
+            [name] => tmp_31e2de8764e68c58e6f6fdf9ea6862707e9b84cb25fecbc9.m4a
+            [type] => audio/mpeg
+            [tmp_name] => /tmp/swoole.upfile.MedCh6
+            [error] => 0
+            [size] => 234710
+        )
+
+)
+PHP Notice:  Undefined index: tmp_name in /home/itkucode/sw/tcp/HttpController/Wechat.php on line 74
+
+Notice: Undefined index: tmp_name in /home/itkucode/sw/tcp/HttpController/Wechat.php on line 74
+Client:Connect.
+[2018-07-24 23:28:12 #618.1]	NOTICE	Server is shutdown now.
+Client:Connect.
+自动加载的类名是:App\app
+自动加载的类名是:HttpController\Wechat
+自动加载的类名是:HttpController\Controller
+Array
+(
+    [file] => Array
+        (
+            [name] => tmp_bca087acd601c32c4606afa3bb8a16c4458a5830fd1b9303.m4a
+            [type] => audio/mpeg
+            [tmp_name] => /tmp/swoole.upfile.iwd3qx
+            [error] => 0
+            [size] => 234149
+        )
+
+)
+Client:Connect.
+Client:Connect.
+自动加载的类名是:HttpController\Tcp
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Tcp.php
+自动加载的类名是:HttpController\Tcp
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Tcp.php
+-1
+Class HttpController\Tcp does not exist
+64
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+自动加载的类名是:App\app
+自动加载的类名是:HttpController\Uploads
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Uploads.php
+-1
+Class HttpController\Uploads does not exist
+64
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+自动加载的类名是:HttpController\Uploads
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Uploads.php
+自动加载的类名是:HttpController\Uploads
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Uploads.php
+自动加载的类名是:HttpController\Uploads
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Uploads.php
+-1
+Class HttpController\Uploads does not exist
+64
+Client:Connect.
+Client:Connect.
+Client:Connect.
+自动加载的类名是:App\app
+自动加载的类名是:HttpController\Tcp
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Tcp.php
+-1
+Class HttpController\Tcp does not exist
+64
+Client:Connect.
+Client:Connect.
+Client:Connect.
+自动加载的类名是:HttpController\Uploads
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Uploads.php
+自动加载的类名是:HttpController\Uploads
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Uploads.php
+自动加载的类名是:HttpController\Uploads
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Uploads.php
+自动加载的类名是:HttpController\Uploads
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Uploads.php
+自动加载的类名是:HttpController\Uploads
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Uploads.php
+-1
+Class HttpController\Uploads does not exist
+64
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+自动加载的类名是:HttpController\Uploads
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Uploads.php
+自动加载的类名是:HttpController\Uploads
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Uploads.php
+自动加载的类名是:HttpController\Uploads
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Uploads.php
+自动加载的类名是:HttpController\Uploads
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Uploads.php
+自动加载的类名是:HttpController\Uploads
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Uploads.php
+自动加载的类名是:HttpController\Uploads
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Uploads.php
+-1
+Class HttpController\Uploads does not exist
+64
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+自动加载的类名是:HttpController\Sw
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Sw.php
+自动加载的类名是:HttpController\Sw
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Sw.php
+自动加载的类名是:HttpController\Sw
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Sw.php
+-1
+Class HttpController\Sw does not exist
+64
+Client:Connect.
+Client:Connect.
+Client:Connect.
+自动加载的类名是:HttpController\Tcp
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Tcp.php
+自动加载的类名是:HttpController\Tcp
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Tcp.php
+自动加载的类名是:HttpController\Tcp
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Tcp.php
+自动加载的类名是:HttpController\Tcp
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Tcp.php
+自动加载的类名是:HttpController\Tcp
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Tcp.php
+自动加载的类名是:HttpController\Tcp
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Tcp.php
+自动加载的类名是:HttpController\Tcp
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Tcp.php
+自动加载的类名是:HttpController\Tcp
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Tcp.php
+-1
+Class HttpController\Tcp does not exist
+64
+Client:Connect.
+Client:Connect.
+Client:Connect.
+自动加载的类名是:HttpController\Sw
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Sw.php
+自动加载的类名是:HttpController\Sw
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Sw.php
+自动加载的类名是:HttpController\Sw
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Sw.php
+自动加载的类名是:HttpController\Sw
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Sw.php
+自动加载的类名是:HttpController\Sw
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Sw.php
+自动加载的类名是:HttpController\Sw
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Sw.php
+自动加载的类名是:HttpController\Sw
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Sw.php
+自动加载的类名是:HttpController\Sw
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Sw.php
+自动加载的类名是:HttpController\Sw
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Sw.php
+-1
+Class HttpController\Sw does not exist
+64
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+自动加载的类名是:HttpController\
+类文件引入失败/home/itkucode/sw/tcp/HttpController/.php
+自动加载的类名是:HttpController\
+类文件引入失败/home/itkucode/sw/tcp/HttpController/.php
+自动加载的类名是:HttpController\
+类文件引入失败/home/itkucode/sw/tcp/HttpController/.php
+自动加载的类名是:HttpController\
+类文件引入失败/home/itkucode/sw/tcp/HttpController/.php
+自动加载的类名是:HttpController\
+类文件引入失败/home/itkucode/sw/tcp/HttpController/.php
+自动加载的类名是:HttpController\
+类文件引入失败/home/itkucode/sw/tcp/HttpController/.php
+自动加载的类名是:HttpController\
+类文件引入失败/home/itkucode/sw/tcp/HttpController/.php
+自动加载的类名是:HttpController\
+类文件引入失败/home/itkucode/sw/tcp/HttpController/.php
+自动加载的类名是:HttpController\
+类文件引入失败/home/itkucode/sw/tcp/HttpController/.php
+自动加载的类名是:HttpController\
+类文件引入失败/home/itkucode/sw/tcp/HttpController/.php
+-1
+Class HttpController\ does not exist
+64
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+自动加载的类名是:HttpController\Article
+自动加载的类名是:Model\Article
+自动加载的类名是:Model\Model
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+自动加载的类名是:HttpController\User
+自动加载的类名是:HttpController\Controller
+Client:Connect.
+自动加载的类名是:App\app
+自动加载的类名是:HttpController\User
+自动加载的类名是:HttpController\Controller
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+自动加载的类名是:HttpController\User
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+[2018-07-29 13:07:47 #1084.1]	NOTICE	Server is shutdown now.
+Client:Connect.
+自动加载的类名是:App\app
+自动加载的类名是:HttpController\User
+自动加载的类名是:HttpController\Controller
+Client:Connect.
+Client:Connect.
+Client:Connect.
+[2018-07-29 15:06:30 #21420.1]	NOTICE	Server is shutdown now.
+Client:Connect.
+自动加载的类名是:App\app
+自动加载的类名是:HttpController\User
+自动加载的类名是:HttpController\Controller
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+[2018-07-29 15:13:24 #18942.1]	NOTICE	Server is shutdown now.
+Client:Connect.
+自动加载的类名是:App\app
+自动加载的类名是:HttpController\User
+自动加载的类名是:HttpController\Controller
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+[2018-07-29 15:18:18 #20602.1]	NOTICE	Server is shutdown now.
+Client:Connect.
+自动加载的类名是:App\app
+自动加载的类名是:HttpController\User
+自动加载的类名是:HttpController\Controller
+Client:Connect.
+Client:Connect.
+Client:Connect.
+[2018-07-29 18:19:14 #21851.1]	NOTICE	Server is shutdown now.
+Client:Connect.
+自动加载的类名是:App\app
+自动加载的类名是:HttpController\User
+自动加载的类名是:HttpController\Controller
+Client:Connect.
+Client:Connect.
+Client:Connect.
+[2018-07-29 18:20:49 #2515.1]	NOTICE	Server is shutdown now.
+Client:Connect.
+自动加载的类名是:App\app
+自动加载的类名是:HttpController\User
+自动加载的类名是:HttpController\Controller
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+Client:Connect.
+自动加载的类名是:HttpController\Swoole
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Swoole.php
+自动加载的类名是:HttpController\Swoole
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Swoole.php
+自动加载的类名是:HttpController\Swoole
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Swoole.php
+自动加载的类名是:HttpController\Swoole
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Swoole.php
+-1
+Class HttpController\Swoole does not exist
+64
+Client:Connect.
+Client:Connect.
+自动加载的类名是:HttpController\Swoole
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Swoole.php
+自动加载的类名是:HttpController\Swoole
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Swoole.php
+自动加载的类名是:HttpController\Swoole
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Swoole.php
+自动加载的类名是:HttpController\Swoole
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Swoole.php
+自动加载的类名是:HttpController\Swoole
+类文件引入失败/home/itkucode/sw/tcp/HttpController/Swoole.php
+-1
+Class HttpController\Swoole does not exist
+64
+Client:Connect.
+Client:Connect.
+Client:Connect.
+[2018-07-30 14:18:40 #2904.1]	NOTICE	Server is shutdown now.
+Client:Connect.
+自动加载的类名是:App\app
+自动加载的类名是:HttpController\
+类文件引入失败/home/itkucode/sw/tcp/HttpController/.php
+-1
+Class HttpController\ does not exist
+64
+Client:Connect.
+Client:Connect.
+自动加载的类名是:HttpController\User
+自动加载的类名是:HttpController\Controller
+Array
+(
+    [name] => tom
+    [age] => 18
+)
+PHP Notice:  Array to string conversion in /home/itkucode/sw/tcp/HttpController/User.php on line 156
+
+Notice: Array to string conversion in /home/itkucode/sw/tcp/HttpController/User.php on line 156
+Client:Connect.
+[2018-07-30 14:21:16 #28882.1]	NOTICE	Server is shutdown now.
+Client:Connect.
+自动加载的类名是:App\app
+自动加载的类名是:HttpController\User
+自动加载的类名是:HttpController\Controller
+Client:Connect.
+Client:Connect.
+Client:Connect.
+[2018-07-30 14:26:39 #29492.1]	NOTICE	Server is shutdown now.

@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>文章列表页</title>
+    <link rel="stylesheet" type="text/css" href="../style/article.css"/>
+</head>
+<body>
+<div>
+    <button id="addArticle">添加文章</button>
+
+</div>
+<div>
+    <form id="uploadForm" enctype="multipart/form-data">
+        <input id="file" type="file" name="file"/>
+
+    </form>
+    <button id="uploadImg">上传图片</button>
+</div>
+<div id="article">
+</div>
+<div id="page">
+
+</div>
+<div class="footer">
+    @copyright 2018 jackcsm@1655664358@qq.com swoole
+</div>
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript">
+
+    window.addEventListener("load",function(){
+        //获取文章
+        getArticle(1);
+
+    })
+
+    //添加文章
+    document.getElementById("addArticle").addEventListener("click",function () {
+
+        window.location.href = "/Article/index.html";
+    });
+
+    //分页
+    document.getElementById("page").addEventListener("click",function (event) {
+        getArticle(event.target.innerHTML,'page');
+    });
+
+    //删除文章
+    document.getElementById("article").addEventListener("click",function (event) {
+        //console.log(event.target.tagName);
+        if(event.target.tagName=='A'&&event.target.innerHTML=='删除'){
+            //console.log(event.target.getAttribute("data"));
+
+            ajax({
+                method:'POST',
+                url:"/article/delete",
+                async:true,
+                data:{
+                    articleId:event.target.getAttribute("data"),
+                },
+                success:function(data){
+
+                }
+            });
+        }
+    });
+
+    function ajax(obj)
+    {
+        /**
+         * method,url,async,success,fail
+         * **/
+        var xhr = new XMLHttpRequest();
+        xhr.open(obj.method,obj.url,obj.async);
+        var params = '';
+        for(var i in obj.data){
+            params+=i+"="+obj.data[i]+"&";
+        }
+        params = params.substr(0,params.length-1);
+        xhr.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+        xhr.send(params);
+        console.log(params);
+        xhr.onreadystatechange = function () {
+            if(xhr.readyState==4&&xhr.status==200){
+                //console.log(xhr.responseText);
+                data = xhr.responseText;
+                obj.success(data)
+            }
+        }
+    }
+
+    //上传文件
+    document.getElementById("uploadImg").addEventListener("click",function () {
+
+        var formData = new FormData(document.getElementById("uploadForm"));
+        
+        $.ajax({
+            url:"/article/upload",
+            type:'post',
+            data:formData,
+            processData:false,
+            contentType:false,
+            success:function (data) {
+                
+            }
+        });
+    })
+
+
+    function getArticle(p,type='load')
+    {
+        var div = document.getElementById("article");
+
+        //if(type=='page'){
+
+            for(var i=0;i<div.childNodes.length;i++){
+                div.removeChild(div.childNodes[i])
+            }
+        //}
+
+        ajax({
+            method:'POST',
+            url:"/article/index",
+            async:true,
+            data:{
+                p:p,
+            },
+            success:function(data){
+                data = JSON.parse(data);
+                if(data){
+                    var html = '';
+                    for(var i=0;i<data['lists'].length;i++){
+                        ul = document.createElement("ul")
+
+                        title = document.createElement("li");
+                        title.innerHTML = data['lists'][i].title;
+                        title.className = "title";
+
+                        author = document.createElement("li");
+                        author.innerHTML = data['lists'][i].author;
+                        author.className = "author";
+
+                        add_time = document.createElement("li");
+                        add_time.innerHTML = data['lists'][i].add_time;
+                        add_time.className = "add_time";
+
+                        id = document.createElement("li");
+                        id.innerHTML = "<a data='"+data['lists'][i].id+"'>编辑</a><a data='"+data['lists'][i].id+"'>删除</a>";
+                        id.setAttribute("data-id",data['lists'][i].id);
+                        id.className = "id_index";
+
+
+                        ul.appendChild(title)
+                        ul.appendChild(author)
+                        ul.appendChild(add_time)
+                        ul.appendChild(id)
+
+
+
+
+                        div.appendChild(ul)
+
+                        console.log(data['lists'][i].title)
+                    }
+                    //展示分页
+                    var page = document.getElementById("page");
+                    var ullist = document.createElement("ul");
+
+
+                        for(var k=0;k<page.childNodes.length;k++){
+                            page.removeChild(page.childNodes[k]);
+                        }
+
+                        for(var j=0;j<ullist.childNodes.length;j++){
+                            ullist.removeChild(ullist.childNodes[j]);
+                        }
+
+
+
+
+
+                    page.appendChild(ullist);
+
+                    for(var i=0;i<data['page'];i++){
+                        li = document.createElement("li");
+                        li.innerHTML = i+1;
+                        li.className = "page";
+
+
+
+                        ullist.appendChild(li);
+
+
+                    }
+
+
+
+
+                }
+            },
+            fail:function () {
+
+            }
+        });
+    }
+</script>
+</body>
+</html>

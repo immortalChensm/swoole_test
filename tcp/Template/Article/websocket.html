@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Insert title here</title>
+</head>
+<body>
+
+<div></div>
+
+<textarea id="con"></textarea>
+
+<button id="close">SEND</button>
+
+<button id="disclose">关闭连接</button>
+
+
+<script type="text/javascript">
+
+    window.addEventListener("load",function(){
+
+
+
+        ws = new WebSocket("ws://123.56.12.53:2346");
+
+        ws.onopen = function(){
+            alert("正在连接服务器");
+            //con = "正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器正在连接服务器"
+            //ws.send(con);
+            //ws.send(1);
+        };
+
+        ws.onmessage = function(e){
+
+            //document.getElementsByTagName("div")[0].innerHTML = e.data;
+            console.log(e.data);
+            var p = document.createElement("p");
+            p.innerHTML = e.data;
+
+            document.getElementsByTagName("div")[0].append(p);
+
+            document.scrollTop = document.body.scrollHeight+'px';
+
+            console.log(document.body.scrollHeight);
+
+        };
+
+        ws.onclose = function(e){
+
+            alert("服务器断开链接了");
+
+        };
+        ws.onerror = function(e){
+            alert(e);
+        };
+
+
+        document.getElementById("close").onclick=function(e){
+            var v = document.getElementById("con").value;
+
+            //data = JSON.parse(v);
+            //alert(typeof v);
+            ws.send(v);
+        };
+
+        document.getElementById("disclose").onclick = function (e) {
+            ws.close();
+            alert("已关闭服务");
+
+        }
+    });
+</script>
+</body>
+</html>
