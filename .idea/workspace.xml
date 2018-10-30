@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9992a73e-e7d3-4e32-bd01-a60f41fada10" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/code/http/defer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/process/kill.php" beforeDir="false" afterPath="$PROJECT_DIR$/code/process/kill.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ide-helper" beforeDir="false" afterPath="$PROJECT_DIR$/ide-helper" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swoole-src/examples/server/dispatch_stream.php" beforeDir="false" afterPath="$PROJECT_DIR$/swoole-src/examples/server/dispatch_stream.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,11 +23,77 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="kill.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="event_add.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/process/event_add.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/code/pool/demo.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kill.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/code/process/kill.php">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="28" column="49" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="49" />
+              <folding>
+                <element signature="e#6#95#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="daemon.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/process/daemon.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="e#6#95#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="signal.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/process/signal.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+              <folding>
+                <element signature="e#6#95#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="alarm.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/process/alarm.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+              <folding>
+                <element signature="e#6#95#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ffinity.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/process/ffinity.php">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
-              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+              <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -42,12 +106,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/code/tcp/stop.php" />
-        <option value="$PROJECT_DIR$/code/tcp/shutdown.php" />
-        <option value="$PROJECT_DIR$/code/tcp/tick.php" />
-        <option value="$PROJECT_DIR$/code/tcp/after.php" />
-        <option value="$PROJECT_DIR$/code/tcp/defer.php" />
-        <option value="$PROJECT_DIR$/code/tcp/close.php" />
         <option value="$PROJECT_DIR$/code/tcp/sendfile.php" />
         <option value="$PROJECT_DIR$/code/tcp/udp_client.php" />
         <option value="$PROJECT_DIR$/code/tcp/udp.php" />
@@ -93,6 +151,12 @@
         <option value="$PROJECT_DIR$/code/process/freeQueue.php" />
         <option value="$PROJECT_DIR$/code/process/close.php" />
         <option value="$PROJECT_DIR$/code/process/kill.php" />
+        <option value="$PROJECT_DIR$/code/process/daemon.php" />
+        <option value="$PROJECT_DIR$/code/process/signal.php" />
+        <option value="$PROJECT_DIR$/code/process/alarm.php" />
+        <option value="$PROJECT_DIR$/code/process/ffinity.php" />
+        <option value="$PROJECT_DIR$/code/process/event_add.php" />
+        <option value="$PROJECT_DIR$/code/pool/demo.php" />
       </list>
     </option>
   </component>
@@ -130,7 +194,7 @@
               <item name="sw4.4" type="b2602c69:ProjectViewProjectNode" />
               <item name="sw4.4" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="process" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="pool" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="sw4.4" type="b2602c69:ProjectViewProjectNode" />
@@ -199,16 +263,15 @@
       <option name="presentableId" value="Default" />
       <updated>1540561741148</updated>
       <workItem from="1540561743001" duration="38507000" />
-      <workItem from="1540809496189" duration="15586000" />
+      <workItem from="1540809496189" duration="21859000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54093000" />
+    <option name="totallyTimeSpent" value="60366000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -239,49 +302,18 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/code/process/signal.php</url>
+          <line>20</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/code/tcp/getClientLists.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/swoole-src/examples/server/ip_dispatch.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/swoole-src/examples/server/uid_dispatch.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-704">
-          <caret line="4" column="34" lean-forward="true" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/tcp/bind.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/tcp/stat.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/tcp/task.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/code/coroutine/create.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -573,6 +605,53 @@
         <state relative-caret-position="-528" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/code/process/ffinity.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/process/alarm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding>
+            <element signature="e#6#95#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/process/signal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+          <folding>
+            <element signature="e#6#95#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/process/daemon.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#6#95#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/process/kill.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="28" column="49" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="49" />
+          <folding>
+            <element signature="e#6#95#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/code/process/close.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -580,10 +659,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/process/kill.php">
+    <entry file="file://$PROJECT_DIR$/code/process/event_add.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        <state relative-caret-position="242">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/pool/demo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
         </state>
       </provider>
     </entry>
